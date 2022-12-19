@@ -6,8 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: classical
-  theme_night: minimal
+  theme_day: minimal
   font: minimal
   font_size: L
 
@@ -18,7 +17,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Cristina Cano research webpage'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
