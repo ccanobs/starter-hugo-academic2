@@ -1,25 +1,21 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Cristina Cano
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Cristina 
+last_name: Cano
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professora Agregada
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat Oberta de Catalunya
+    url: https://www.uoc.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
