@@ -142,7 +142,6 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       Contact form.
       # Contact (add or remove contact options as necessary)
       email: ccanobs@uoc.edu
       address:
