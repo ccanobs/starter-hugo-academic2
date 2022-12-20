@@ -1,7 +1,7 @@
 ---
 title: "5G y 6G Networks: The social and environmental implications of the
   coming hyperconnectivity"
-abstract: "What is 5G? and 6G? What benefits will they bring and what
+abstract: "What is 5G? and 6G? What benefits will they bring and what are their
   environmental implications? In this talk, I will give an overview of these
   technologies and discuss the potential benefits as well as their environmental
   and social implications. "
