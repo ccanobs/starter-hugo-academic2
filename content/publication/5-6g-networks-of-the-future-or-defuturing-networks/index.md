@@ -3,7 +3,7 @@ title: prova
 publication_types:
   - "3"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
