@@ -28,3 +28,5 @@ I﻿f you are interested in this topic, check the following articles I have writ
 [5/6G: Networks of the Future or Defuturing Networks?](https://arxiv.org/pdf/2207.02533.pdf)
 
 [Redes 5G y 6G: Las implicaciones sociales y ambientales de la hiperconectividad que se avecina](https://theconversation.com/redes-5g-y-6g-las-implicaciones-sociales-y-ambientales-de-la-hiperconectividad-que-se-avecina-187050)
+
+[O﻿ur digital life has unquestionable energy and infrastructure needs](https://blogs.uoc.edu/in3/our-digital-life-has-unquestionable-energy-and-infrastructure-needs/)
