@@ -1,5 +1,5 @@
 ---
-title: "5/6G: Networks of the Future or Defuturing Networks?"
+title: "5/6G: Networks of the Future or Defuturing Networks?2"
 publication_types:
   - "3"
 draft: false
