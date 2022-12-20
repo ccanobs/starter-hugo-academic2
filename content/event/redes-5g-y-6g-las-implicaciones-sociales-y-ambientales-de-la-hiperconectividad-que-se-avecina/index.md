@@ -15,7 +15,7 @@ publishDate: 2022-12-20T14:11:07.953Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
