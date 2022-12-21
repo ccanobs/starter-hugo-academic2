@@ -48,7 +48,7 @@ highlight_name: true
 first_name: Cristina
 email: ""
 ---
-I hold a Ph.D. (2011) in Information, Communication and Audiovisual Media Technologies from the Universitat Pompeu Fabra (UPF). I have been a research fellow in the Hamilton Institute of the National University of Ireland, Maynooth (2012-2014), in Trinity College Dublin (2015-2016) and in Inria- Lille in France (first half of 2016). Currently, I am an associate professor at the Faculty of Computer Science and Telecomunications of the Universitat Oberta de Catalunya (UOC), where I mainly teach math courses. I am also a research member of the WINE group also at UOC.
+I hold a Ph.D. (2011) in Information, Communication and Audiovisual Media Technologies from the Universitat Pompeu Fabra (UPF). I have been a research fellow in the Hamilton Institute of the National University of Ireland, Maynooth (2012-2014), in Trinity College Dublin (2015-2016) and in Inria- Lille in France (first half of 2016). Currently, I am an associate professor at the [Faculty of Computer Science and Telecomunications](https://www.uoc.edu/portal/en/estudis_arees/informatica_multimedia_telecomunicacio/index.html) of the Universitat Oberta de Catalunya (UOC), where I mainly teach math courses. I am also a research member of the [WINE group](http://wine.rdi.uoc.edu/) also at UOC.
 {style="text-align: justify;"}
 
 My research interests include coexistence of wireless heterogeneous networks and distributed resource allocation. Recently, I became interested in science and technology studies, trying to understand the intertwining of the social and the technological in the development of wireless networks, with special interest in the environmental impact of mobile networks.
