@@ -50,7 +50,7 @@ email: ""
 ---
 I hold a Ph.D. (2011) in Information, Communication and Audiovisual Media Technologies from the Universitat Pompeu Fabra (UPF). I have been a research fellow in the Hamilton Institute of the National University of Ireland, Maynooth (2012-2014), in Trinity College Dublin (2015-2016) and in Inria- Lille in France (first half of 2016). Currently, I am an associate professor at the WINE research group of the Universitat Oberta de Catalunya (UOC), where I mainly teach math courses. {style="text-align: justify;"}
 
-My main research interests include coexistence of wireless heterogeneous networks and distributed resource allocation. Recently, I became interested in science and technology studies, trying to understand the intertwining of the social in the technological development of wireless networks, with special interest in their environmental impact.
+My main research interests include coexistence of wireless heterogeneous networks and distributed resource allocation. Recently, I became interested in science and technology studies, trying to understand the intertwining of the social and the technological in the development of wireless networks, with special interest in their environmental impact.
 {style="text-align: justify;"}
 
 Although it says little about the quality of my research, it's probably useful to mention that I appeared in the inaugural list "Rising Stars in Networking/Communications" of the N2Women organisation and that I have published 20 JCR journals and more than 30 conference articles (5 of them received the best paper award), attracting more than 2000 citations and resulting in a h-index of 23 according to Google Scholar, all of this related to my work on wireless network optimization.
